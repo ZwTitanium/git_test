@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("第四个版本");
         System.out.println("来自hot-fix的第二个版本");
         System.out.println("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");
+        System.out.println("push test");
     }
 }
